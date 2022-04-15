@@ -1,0 +1,443 @@
+.tab_principal{
+
+	width:100%;
+	height:100%;
+	border:1px solid black;
+	border-collapse:collapse;
+	
+
+}
+
+.cell_entete{
+
+	background-color:blue;
+	height:100px;
+	border:1px solid black;
+
+}
+
+.cote_gauche{
+
+	border:1px solid black;
+	width:200px;
+
+}
+
+.centre{
+
+	border:1px solid black;
+	
+
+}
+
+.cote_droit{
+
+	border:1px solid black;
+	width:200px;
+
+
+}
+
+.cell_pied_page{
+
+	border:1px solid black;
+	background-color:yellow;
+	height:100px;
+
+
+}
+
+.tab_categ{
+
+	border:1px solid black;
+	border-collapse:collapse;
+	width:200px;
+	margin-bottom:20px;
+
+
+}
+
+.cell_categ{
+
+	border:1px solid black;
+
+
+}
+
+
+.tab_liste_article{
+
+	width:100%;
+	border:1px solid black;
+	border-collapse:collapse;
+	margin-bottom:20px;
+
+
+
+}
+
+.entete_liste_art{
+
+	background-color:blue;
+	color:white;
+
+}
+
+.cell_num_page{
+
+	background-color:#0099FF;
+	
+	
+}
+
+.tab_page{
+	
+	width:100%;
+	color:white;
+	
+}
+
+.tab_page a{
+
+	color:white;
+
+}
+
+.lien_rouge{
+
+	color:yellow;
+	
+}
+
+.cell_pgsp{
+
+	width:125px;
+	
+	
+}
+
+.cell_page{
+
+	
+
+}
+
+.tab_pres_article{
+
+	width:100%;
+
+}
+
+.tab_pres_article a{
+
+	color:blue;
+	text-decoration:underline;
+	cursor:hand;
+
+}
+
+.cell_photo{
+
+	width:75px;
+	height:75px;
+	background-color:white;
+
+}
+
+.cell_panier{
+
+	width:100px;
+	height:75px;
+	cursor:hand;
+	
+
+}
+
+.texte_petit{
+
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+
+
+}
+
+.cell_nom_art{
+
+	width:300px;
+	
+
+}
+
+.cell_article{
+
+	border:1px solid black;
+	
+}
+
+.cell_article2{
+
+	border:1px solid black;
+	background-color:yellow;
+	
+}
+
+.rouge{
+
+	color:red;
+	
+}
+
+.tab_recherche{
+
+	border:1px solid black;
+	margin-right:20px;
+	
+		
+
+}
+
+.tab_rech_cat{
+
+	width:200px;
+	border:1px solid black;
+	border-collapse:collapse;
+	margin-bottom:20px;
+
+
+}
+
+.div_art{
+
+	border:1px solid black;
+
+}
+
+.tab_article{
+
+	width:100%;
+	/*border:1px solid black;*/
+	border-collapse:collapse;
+	background-color:yellow;
+	
+
+}
+
+.cell_entete_article{
+
+	background-color:blue;
+	color:yellow;
+
+}
+
+.tab_car_article{
+
+	width:100%;
+	/*border:1px solid black;*/
+	border-collapse:collapse;
+	background-color:#66FFFF;
+	
+
+
+}
+
+.tab_ass_article{
+
+	width:100%;
+	/*border:1px solid black;*/
+	border-collapse:collapse;
+	background-color:#CCCCCC;
+	margin-bottom:20px;
+
+
+}
+
+.souligne{
+
+	text-decoration:underline;
+	
+}
+
+.tab_panier{
+
+	margin-left:auto;
+	margin-right:auto;	
+	
+	
+}
+
+.tab_panier_art{
+
+	text-align:center;
+	border:1px solid black;
+	border-collapse:collapse;
+	
+}
+
+.tab_panier_art td{
+
+	border:1px solid black;
+
+	
+}
+
+.cell_panier_article{
+
+	width:300px;
+	text-align:left;
+
+}
+
+.tab_panier_totaux{
+
+	border:1px solid black;
+	border-collapse:collapse;
+	
+
+}
+
+.tab_panier_totaux td{
+
+	border:1px solid black;
+	
+
+}
+
+.gras_rouge{
+
+	font-weight:bold;
+	color:red;
+
+}
+
+.tab_authentification{
+
+	margin-left:auto;
+	margin-right:auto;
+	border:1px solid blue;
+	border-collapse:collapse;
+
+	
+	
+}
+
+.tab_inscription{
+
+	margin-left:auto;
+	margin-right:auto;
+	border:1px solid blue;
+	border-collapse:collapse;
+	background-color:#66FFFF;
+
+	
+	
+}
+
+.tab_menu{
+
+	width:200px;
+	border:1px solid black;
+	border-collapse:collapse;
+	margin-bottom:20px;
+	
+}
+
+.tab_menu a{
+
+	text-decoration:underline;
+	color:black;
+	cursor:hand;
+	
+
+}
+
+.entete_menu{
+
+	border:1px solid black;
+	background-color:blue;
+	color:white;
+
+
+}
+
+.entete_menu a{
+
+	color:white;
+
+}
+
+.tab_admin{
+
+	margin-left:auto;
+	margin-right:auto;
+	border:1px solid black;
+	border-collapse:collapse;
+
+
+}
+
+.entete_tab_admin{
+
+	border:1px solid black;
+
+
+}
+
+.mess_erreur{
+
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:red;
+	
+}
+
+.lien_rouge9{
+
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:red;
+	cursor:hand;
+	text-decoration:underline;
+	
+}
+
+.tab_commande{
+
+	border:1px solid black;
+	margin-left:auto;
+	margin-right:auto;
+	border-collapse:collapse;
+		
+}
+
+.entete_tab_commande{
+
+	border:1px solid black;
+	background-color:blue;
+	color:white;
+
+}
+
+.cell_tab_comm_bleu{
+
+	background-color:#0066FF;
+	border-right:1px solid black;
+	
+}
+
+.cell_tab_comm_blanche{
+
+	border-right:1px solid black;
+	
+}
+
+.cell_tab_comm_bleu a{
+
+	color:white;
+	
+}
+
+.barre{
+
+	text-decoration:line-through;
+	
+}
