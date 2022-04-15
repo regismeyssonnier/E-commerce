@@ -1,2 +1,6 @@
 # E-commerce
-Site de vente
+
+## 1. Site de vente
+
+C'est un site de **vente en ligne** de matériel informatique.
+
